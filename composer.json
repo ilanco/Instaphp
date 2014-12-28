@@ -9,6 +9,11 @@
             "name": "Randy Sesser",
             "email": "randy@instaphp.com",
             "homepage": "http://instaphp.com"
+        },
+        {
+            "name": "Ilan Cohen",
+            "email": "ilanco@gmail.com",
+            "homepage": "https://github.com/ilanco"
         }
     ],
     "require": {
